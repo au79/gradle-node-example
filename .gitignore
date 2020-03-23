@@ -3,3 +3,11 @@
 
 # Ignore Gradle build output directory
 build
+
+# Temp files
+\#*#
+.#*
+
+# Node modules
+node_modules
+
