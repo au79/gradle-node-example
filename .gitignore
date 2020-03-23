@@ -11,3 +11,6 @@ build
 # Node modules
 node_modules
 
+# Distribution archives
+distributions
+
