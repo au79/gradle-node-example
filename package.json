@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/au79/gradle-node-example#readme",
   "dependencies": {
-    "static-site": "^1.3.4"
+    "static-site": "^1.3.5"
   }
 }
